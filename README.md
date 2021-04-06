@@ -1,4 +1,4 @@
-# placeholder
+# placeholder 占位图
 
 直接将源码拷贝到阿里云云函数中即可
 
